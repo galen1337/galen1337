@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://github.com/galen1337/galen1337/blob/main/certificate_fundamentals.jpeg?raw=true" alt="Certificate Fundamentals" width="160" height="220"/>
   <img src="https://github.com/galen1337/galen1337/blob/main/certificate_basics.jpeg?raw=true" alt="Certificate Basics" width="160" height="220"/>
-  <img src="https://github.com/galen1337/galen1337/raw/main/certificate_basics.jpeg?raw=true" alt="Certificate Basics" width="160" height="220"/>
+  <img src="https://github.com/galen1337/galen1337/raw/main/certificate_advanced.jpg" alt="Certificate Basics" width="160" height="220"/>
   <img src="https://github.com/galen1337/galen1337/blob/main/certificate_OOP.jpg" alt="Certificate Basics" width="160" height="220"/>
 </p>
 
