@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galen</h1>
 <h2 align="center">Full-Stack Developer</h2>
-<h3 align="center">Studying Software Engineering at SoftUni</h3>
-<h3 align="center">Working as an intern full-stack .NET developer in the Shumen Institute of Technology</h3>
 
 
 ---
@@ -15,15 +13,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50"/>
 </p>
 
----
-
-### 📜 Certifications
-<p align="center">
-  <img src="https://github.com/galen1337/galen1337/blob/main/certificate_fundamentals.jpeg?raw=true" alt="Certificate Fundamentals" width="160" height="220"/>
-  <img src="https://github.com/galen1337/galen1337/blob/main/certificate_basics.jpeg?raw=true" alt="Certificate Basics" width="160" height="220"/>
-  <img src="https://github.com/galen1337/galen1337/raw/main/certificate_advanced.jpg" alt="Certificate Basics" width="160" height="220"/>
-  <img src="https://github.com/galen1337/galen1337/blob/main/certificate_OOP.jpg" alt="Certificate Basics" width="160" height="220"/>
-</p>
 
 ---
 
